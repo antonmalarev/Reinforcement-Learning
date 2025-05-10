@@ -2,6 +2,10 @@
 
 This repository contains a Jupyter Notebook that demonstrates the implementation of a Q-learning agent in a simple 5x5 grid environment. The agent learns to navigate the grid to reach a goal while avoiding penalties for unnecessary moves or hitting walls.
 
+## Demo
+
+![Agent Demo](assets/agent_demo.gif)
+
 ## Overview
 
 Q-learning is a reinforcement learning algorithm that enables an agent to learn an optimal policy for decision-making in an environment. The agent learns by interacting with the environment and updating its Q-values using the Bellman equation.
