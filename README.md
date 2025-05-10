@@ -4,7 +4,7 @@ This repository contains a Jupyter Notebook that demonstrates the implementation
 
 ## Demo
 
-![Agent Demo](assets/agent_demo.gif)
+![Agent Demo](demo.gif)
 
 ## Overview
 
